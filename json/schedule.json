@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'Journal'
+// Journal.schedule
+
+[{"id": 1,"classId": 1,"groupId": 1,"date": "2014-06-10 10:00:00","tip": "feadwa","roomId": 1}, {"id": 2,"classId": 2,"groupId": 2,"date": "2014-06-10 10:00:00","tip": "dwadw","roomId": 2}, {"id": 3,"classId": 3,"groupId": 3,"date": "2014-06-10 10:00:00","tip": "dafawd","roomId": 3}, {"id": 4,"classId": 4,"groupId": 4,"date": "2014-06-10 10:00:00","tip": "feflflg","roomId": 4}, {"id": 5,"classId": 5,"groupId": 5,"date": "2014-06-10 10:00:00","tip": "fclfel","roomId": 5}]

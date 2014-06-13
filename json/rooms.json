@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'Journal'
+// Journal.rooms
+
+[{"id": 1,"buildingId": 1,"name": "101","description": "lab"}, {"id": 2,"buildingId": 2,"name": "202","description": "lec"}, {"id": 3,"buildingId": 3,"name": "303","description": "lab"}, {"id": 4,"buildingId": 4,"name": "404","description": "lec"}, {"id": 5,"buildingId": 5,"name": "505","description": "lab"}]

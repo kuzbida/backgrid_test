@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'Journal'
+// Journal.subjects
+
+[{"id": 1,"name": "Math","description": "Math","code": "132314"}, {"id": 2,"name": "English","description": "English","code": "141455"}, {"id": 3,"name": "Physics","description": "Physics","code": "413221"}, {"id": 4,"name": "Latin","description": "Latin","code": "541423"}, {"id": 5,"name": "Programming","description": "Programming","code": "414144"}]

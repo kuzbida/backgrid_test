@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'Journal'
+// Journal.classes
+
+[{"id": 1,"teacherSubjectId": 1,"classTypeId": 1}, {"id": 2,"teacherSubjectId": 2,"classTypeId": 2}, {"id": 3,"teacherSubjectId": 3,"classTypeId": 3}, {"id": 4,"teacherSubjectId": 4,"classTypeId": 4}, {"id": 5,"teacherSubjectId": 5,"classTypeId": 5}]

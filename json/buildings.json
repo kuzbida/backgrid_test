@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'Journal'
+// Journal.buildings
+
+[{"id": 1,"name": "economics","description": "lv01","att": "4801481-4","latt": "4190-4921"}, {"id": 2,"name": "philology","description": "lv02","att": "41y515","latt": "4114j508"}, {"id": 3,"name": "legal","description": "lv03","att": "591-051-9","latt": "41019-19-"}, {"id": 4,"name": "historiacal","description": "lv04","att": "41419-0","latt": "414jg4559"}, {"id": 5,"name": "journalistic","description": "lv05","att": "r411r514","latt": "98994214"}]

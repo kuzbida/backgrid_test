@@ -1,0 +1,44 @@
+/*global define*/
+
+define([
+    'underscore',
+    'backbone'
+], function (_, Backbone) {
+    'use strict';
+
+    var GroupModel = Backbone.Model.extend({
+        url: '../../json/groups.json',
+
+        initialize: function() {
+        },
+
+        defaults: {
+		id: '',
+		courseId: '',
+		teacherId: '',
+		studentId: '',
+		name: '',
+		description: ''
+        },
+
+        validate: function(attributes) {
+		if ( !attributes.id ){
+			return 'Fill id!'};
+		if (!attributes.courseId){
+			return 'Fill courseId!'};
+		if(!(attributes.courseId%1)==0)){
+			return 'Course ID must be integer!'};
+		if (!_.isString('attributes.name'){
+			return 'Name must be string!'
+		};
+	}
+      }
+        },
+
+        parse: function(response, options)  {
+            return response;
+        }
+    });
+
+    return GroupModel;
+});

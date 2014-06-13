@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'Journal'
+// Journal.groups
+
+[{"id": 1,"courseId": 2,"teacherId": 1,"studentId": 1,"name": "KM-21","description": "1"}, {"id": 2,"courseId": 1,"teacherId": 4,"studentId": 4,"name": "RT-13","description": "2"}, {"id": 3,"courseId": 3,"teacherId": 2,"studentId": 5,"name": "VR-32","description": "3"}, {"id": 4,"courseId": 4,"teacherId": 3,"studentId": 3,"name": "VR-41","description": "4"}, {"id": 5,"courseId": 5,"teacherId": 5,"studentId": 2,"name": "KM-52","description": "5"}]

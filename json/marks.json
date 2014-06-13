@@ -1,0 +1,9 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'Journal'
+// Journal.marks
+
+[{"id": 1,"scheduleId": 1,"studentId": 1,"mark": "10","tip": "ffef"}, {"id": 2,"scheduleId": 2,"studentId": 2,"mark": "8","tip": "flk"}, {"id": 3,"scheduleId": 3,"studentId": 3,"mark": "9","tip": "fkeo"}, {"id": 4,"scheduleId": 4,"studentId": 4,"mark": "12","tip": "lkk"}, {"id": 5,"scheduleId": 5,"studentId": 5,"mark": "3","tip": null}]
